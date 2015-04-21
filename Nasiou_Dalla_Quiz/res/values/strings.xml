@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Τέστ Γνώσεων Νάσιου_Ντάλλα</string>
+    <string name="hello_world">Καλωςορίσατε στην εφαρμογή μας!! Πρόκειται για ένα
+          κουίζ γνώσεων που απευθύνεται σε μαθητές τησ Πρωτοβάθμιας Εκπαίδευσης. Παρακαλώ
+          επιλέξτε το πεδίο γνώσεων απο τα παρακάτω:  </string>
+    <string name="maths">Για να δούμε τι γνωρίζετε απο τα μαθηματικά!!</string>
+    <string name="material">Για να δούμε τι γνωρίζετε απο το πεδίο που επιλέξατε!!
+        Το παιχνίδι παίζετε και πρέπει να διαλεξετε την σωστή απάντηση απο τις προτεινόμενες.
+        Καλή Επιτυχία !! </string>
+    <string name="button1">Μαθηματικα</string>
+    <string name="button2">Ιστορια</string>
+    <string name="button3">Γεωγραφια</string>
+    <string name="button4">Προβληματα</string>
+    <string name="action_settings">Ρυθμίσεις</string>
+     <string name="about_settings">Πληροφορίες</string>
+     <string name="str_next">Επόμενη Ερώτηση</string>
+    <string name="title_activity_result">Αποτελέσματα τωω απαντήσεων σας!!!</string>
+
+</resources>
